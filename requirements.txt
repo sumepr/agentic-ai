@@ -1,0 +1,8 @@
+langchain==0.1.0
+langchain-openai==0.0.3
+langgraph==0.0.10
+python-dotenv==1.0.0
+openai==1.6.1
+pandas==2.1.4
+tqdm==4.66.1
+chromadb==0.4.22
